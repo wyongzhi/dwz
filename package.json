@@ -1,0 +1,14 @@
+{
+  "name": "dwz",
+  "version": "0.0.1",
+  "description": "百度网址缩短",
+  "main": "index.js",
+  "repository": "",
+  "keywords": [
+    "dwz",
+    "baidu",
+    "tinyurl"
+  ],
+  "author": "wyongzhi",
+  "license": "BSD"
+}
