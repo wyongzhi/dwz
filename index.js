@@ -1,5 +1,4 @@
 var http = require('http');
-var url = process.argv[2];
 
 
 module.exports.create = function(url,success,error){
@@ -55,7 +54,7 @@ module.exports.query = function(url,success,error){
                 tinyurl: url
             });
         });
-    })2
+    })
 
     req.on('error', function(e) {
         error(e);
