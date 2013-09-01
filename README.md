@@ -7,3 +7,4 @@ dwz
 
 ### 还原
 `dwz.query('http://dwz.cn/ajNeN',function(data){ console.log(data) })`
+test
